@@ -1,5 +1,5 @@
 # Get URL of image and its description from Wikipedia's page 🤗
-Hi! I created this script to get Picture of Today from Wikipedia and its description. You can try it for any Wiki's page to get these data. If you have a questions or would like to discuss something feel free to contact me:
+Hi! I created this script to get Picture of Today and its description from Wikipedia. You can try it for any Wiki's page to get these data. If you have a questions or would like to discuss something feel free to contact me:
 Telegram: @petrolhds
 Email: chih.sereza.s@gmail.com
 
