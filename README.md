@@ -28,6 +28,8 @@ type ```pip install -r requirements.txt``` in your terminal window to install ne
 2. To get today's Picture of The Day from Wikipedia data type ```python wiki_script.py```.
 
 3. In terminal window you will get name and URL of source image, and it's description.
+![image](https://user-images.githubusercontent.com/106083959/210172179-d9b335e3-9ab8-4933-9f7c-6e613a88bd78.png)
+
 
 # Notes (if you have some issues or some time to read):
 
